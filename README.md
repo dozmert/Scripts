@@ -1,5 +1,5 @@
-# Scripts
-A collection of scripts. I've used AI to assist me with the generation of some of these scripts along with the README files.
+# Scripts Tools & Guides
+A collection of my scripts tools and guides. I've used AI to assist me along the way in addition to generating README files.
 
 | Name                                               | Description                                          |
 | -------------------------------------------------- | ---------------------------------------------------- |
