@@ -5,4 +5,4 @@ A collection of scripts. I've used AI to assist me with the generation of some o
 | -------------------------------------------------- | ---------------------------------------------------- |
 | [LogitechGub](LogitechGhubBackup)                  | Repurposable backup script from Logitech Ghub.       |
 | [Windows10CleanSetup](Windows10CleanSetup)         | One-click setup/cleanup of fresh Win10 installation. |
-| [WindowsActivationScript](WindowsActivationScript) | One-click activation of fresh Windows installtion.   |
+| [WindowsActivationScript](WindowsActivationScript) | One-click activation of fresh Windows installation.  |
